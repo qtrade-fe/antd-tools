@@ -1,19 +1,19 @@
 {
-  "name": "@ant-design/tools",
-  "version": "13.6.2",
-  "description": "tools for ant design",
+  "name": "@qtrade/tools",
+  "version": "13.6.4",
+  "description": "tools for qtrade",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
+  "homepage": "https://github.com/qtrade-fe/antd-tools",
   "author": "yiminghe@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git@github.com:qtrade-fe/antd-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "https://github.com/qtrade-fe/antd-tools/issues"
   },
   "license": "MIT",
   "bin": {
