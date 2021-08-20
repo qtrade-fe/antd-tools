@@ -1,6 +1,6 @@
 {
   "name": "@qtrade/tools",
-  "version": "13.6.4",
+  "version": "13.6.6",
   "description": "tools for qtrade",
   "keywords": [
     "react",
@@ -60,6 +60,7 @@
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^3.0.0",
     "gulp-strip-code": "^0.1.4",
     "gulp-typescript": "^5.0.1",
     "gulp-watch": "^5.0.1",
